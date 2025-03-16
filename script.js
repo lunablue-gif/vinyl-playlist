@@ -21,7 +21,7 @@ const songs = [
     { src: "songs/song6.mp3", cover: "assets/song6.png" },
     { src: "songs/song7.mp3", cover: "assets/song7.png" },
     { src: "songs/song8.mp3", cover: "assets/song8.png" },
-    { src: "songs/song9.mp3", cover: "assets/song9.png" },
+    { src: "songs/song9.mp3", cover: "assets/song9.png" }
 
 ];
 
