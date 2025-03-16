@@ -13,11 +13,16 @@ let volumeRotation = 0;
 let songRotation = 0;
 
 const songs = [
-    { src: "songs/song1.mp3", cover: "assets/song1.png" },
-    { src: "songs/song2.mp3", cover: "assets/song2.png" },
-    { src: "songs/song3.mp3", cover: "assets/song3.png" },
-    { src: "songs/song4.mp3", cover: "assets/song4.png" },
-    { src: "songs/song5.mp3", cover: "assets/song5.png" }
+    { src: "song1.mp3", cover: "song1.png" },
+    { src: "song2.mp3", cover: "song2.png" },
+    { src: "song3.mp3", cover: "song3.png" },
+    { src: "song4.mp3", cover: "song4.png" },
+    { src: "song5.mp3", cover: "song5.png" },
+    { src: "song6.mp3", cover: "song6.png" },
+    { src: "song7.mp3", cover: "song7.png" },
+    { src: "song8.mp3", cover: "song8.png" },
+    { src: "song9.mp3", cover: "song9.png" },
+    
 ];
 
 function playSong() {
